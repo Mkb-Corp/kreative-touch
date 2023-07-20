@@ -157,7 +157,7 @@
                         <li class="grid-item wow animate__zoomIn">
                             <a href="#">
                                 <figure>
-                                    <div class="portfolio-img"><img src="{{ asset('assets/img/01.jpg') }}"
+                                    <div class="portfolio-img"><img src="{{ asset('assets/img/portfolio-01.jpg') }}"
                                             alt="" /></div>
                                     <figcaption>
                                         <div class="portfolio-hover-main text-center">
