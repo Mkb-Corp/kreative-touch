@@ -7,13 +7,13 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0,maximum-scale=1" />
-    <meta name="author" content="ThemeZaa">
+    <meta name="author" content="Kreative Touch">
     <!-- description -->
     <meta name="description"
-        content="POFO is a highly creative, modern, visually stunning and Bootstrap responsive multipurpose agency and portfolio HTML5 template with 25 ready home page demos.">
+        content="Nous sommes une agence branding et media. Nous vous offrons des services de création et d'élaboration de stratégie de marque, design graphique, marketing digital, média et web design">
     <!-- keywords -->
     <meta name="keywords"
-        content="creative, modern, clean, bootstrap responsive, html5, css3, portfolio, blog, agency, templates, multipurpose, one page, corporate, start-up, studio, branding, designer, freelancer, carousel, parallax, photography, personal, masonry, grid, coming soon, faq">
+        content="branding,design,strategie,web,photographie,video,motion">
     <!-- favicon -->
     <link rel="shortcut icon" href="{{ asset('assets/images/favicon.png') }}">
     <link rel="apple-touch-icon" href="{{ asset('assets/images/apple-touch-icon-57x57.png') }}">
