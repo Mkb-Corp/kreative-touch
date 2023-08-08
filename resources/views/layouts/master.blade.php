@@ -17,14 +17,14 @@
         <link rel="apple-touch-icon" sizes="72x72" href="{{ asset('assets/images/apple-touch-icon-72x72.png') }}">
         <link rel="apple-touch-icon" sizes="114x114" href="{{ asset('assets/images/apple-touch-icon-114x114.png') }}">
         <!-- style sheets and font icons  -->
-        <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootsnav.css"') }}>
+        <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/bootsnav.css') }}">
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/font-icons.min.css') }}">
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/theme-vendors.min.css') }}">
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/style.css') }}" />
         <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/responsive.css ') }}" />
     </head>
     <body>
-        <div class="box-layout">
+        {{-- <div class="box-layout"> --}}
             <header>
                 <!-- start navigation -->
                 <nav class="navbar navbar-default bootsnav background-white header-light navbar-scroll-top navbar-expand-lg">
@@ -57,7 +57,7 @@
 
             @yield('content')
 
-        </div>
+        {{-- </div> --}}
         <!-- start footer -->
         <footer class="footer-modern-dark bg-extra-dark-gray padding-five-tb sm-padding-30px-tb">
             <div class="footer-widget-area padding-40px-bottom sm-padding-30px-bottom">
